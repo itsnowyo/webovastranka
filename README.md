@@ -10,4 +10,5 @@ Průvodce cestováním
 7. Ubytování – informace o typech ubytování
 8. Galerie 
 9. O nás
-10. Kontakt 
+10. Kontakt - kontaktní formulář
+    
