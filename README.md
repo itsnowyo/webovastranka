@@ -8,6 +8,6 @@ Průvodce cestováním
 5. Amerika 
 6. Tipy na cestování – rady a doporučení
 7. Ubytování – informace o typech ubytování
-8. Galerie – fotografie z cest
-9. O nás – informace o autorovi
-10. Kontakt – kontaktní formulář
+8. Galerie 
+9. O nás
+10. Kontakt 
