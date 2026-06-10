@@ -1,4 +1,5 @@
 # webovastranka 
+http://pruvodcecestovanim.unas.cz/kontakt.html
 Průvodce cestováním
 
 1. Domů – úvodní stránka s hlavními informacemi
